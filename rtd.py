@@ -14,3 +14,5 @@ for entity in feed.entity:
 #parse through Protocol Buffer and do actions for speaking bus stop down here.
 
 #hahaha josh is gay...
+
+#https://developers.google.com/transit/gtfs-realtime/examples/python-sample
